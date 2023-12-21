@@ -1,0 +1,322 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "projects/Антропогенез - аудио лекции",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "8637f522-c183-42bf-a93a-0741b2abea23",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "0a04f244-f994-4002-bc51-7e77897d659b",
+      "name": "Антропогенез. Курс Шалютина"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "projects/Визит старой дамы",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "ab4a4d1d-f0f5-4727-8504-a0ef9b2ad0dc",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "033f5f08-c927-44f6-97e8-eeacd331fbca",
+      "name": "Визит старой дамы"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "projects/Генезис власти",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "063805ac-ec9a-4da2-8b94-6a00e02e058b",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "2d029173-daad-4b35-8b67-12d3af2ee367",
+      "name": "Генезис власти"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "projects/Гипертония",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "ffd708d0-5e76-45fc-9f7c-b9716fcb37d5",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "83593d30-86d8-495a-9a61-609b5d2a447c",
+      "name": "Гипертония"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "projects/Идентичность",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "5a646bb5-b0c1-487a-ba01-187339a50e50",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "dad60fa1-8ad7-4314-8642-3b3a9ade7bbd",
+      "name": "Идентичность. Теория"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "projects/Модуль 3. Силлогизмы со сложными посылками",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "f1d88dd1-847c-49ab-aa87-cf40f3879a6e",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "3ecc56ec-f02e-4b46-aaa3-d5d50f21f1ef",
+      "name": "Модуль 3. Силлогизмы со сложными посылками"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "projects/Протезы",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "6d272313-4de4-4ad8-a40f-7a60c3e91c07",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "eff08f85-0037-45e7-b33c-b5081b3b4a9f",
+      "name": "Протезы. Мебельное выражение"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "projects/Системы категорий и согласование их",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "d10ceb92-340b-4b1d-aa53-42d1967987c7",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "4ae6a624-9d01-4532-b485-164b0d956858",
+      "name": "Системы категорий. Согласование"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "projects/JS Elecron",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "72bdce1e-a1a3-4926-a1a0-5a5165908c94",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "dd85b1f6-cef7-4f87-85c0-8cc3672a28eb",
+      "name": "Obsidian. Курс программирования"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "projects/MyZettelkasten",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "0b1d6acc-009f-40ac-9452-bb2726abace8",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "fd4072f4-d180-4fc7-98ef-61bca945097a",
+      "name": "Zettelkasten. Моя система"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": []
+  }
+}

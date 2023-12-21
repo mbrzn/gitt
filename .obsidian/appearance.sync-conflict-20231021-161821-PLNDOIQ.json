@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Blue Topaz",
+  "baseFontSize": 14,
+  "theme": "obsidian",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "snippet",
+    "custom-mermaid",
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "markdown-embed-title"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "mobileToolbarCommands": [
+    "editor:move-caret-left",
+    "editor:undo",
+    "command-palette:open",
+    "editor:paste",
+    "editor:set-heading-6",
+    "editor:toggle-keyboard",
+    "media-extended:get-timestamp",
+    "obsidian-footnotes:insert-autonumbered-footnote",
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:insert-link",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:redo",
+    "editor:configure-toolbar"
+  ],
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "географическ",
+    "Кинопоиск"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

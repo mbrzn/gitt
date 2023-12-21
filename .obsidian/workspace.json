@@ -1,22 +1,83 @@
 {
   "main": {
-    "id": "fb727d893cce25f2",
+    "id": "af59f52db8b0f13e",
     "type": "split",
     "children": [
       {
-        "id": "d96e93723a8fe054",
+        "id": "866ba8869c942445",
         "type": "tabs",
+        "dimension": 40.45064377682404,
         "children": [
           {
-            "id": "82806342237d93f3",
+            "id": "bdcfe8e48a0c92b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "gen.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
+            },
+            "group": "e758a5105714890b"
+          }
+        ]
+      },
+      {
+        "id": "3e6ef5e19be57e0a",
+        "type": "tabs",
+        "dimension": 59.54935622317596,
+        "children": [
+          {
+            "id": "459a9166e8ca4cd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gen.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "e758a5105714890b"
+          },
+          {
+            "id": "6477ec73ccd562ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Христианская космогония.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4566053b6e90a5d0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2bf97000a739e4a9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f28822c3c0dacaa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,40 +86,40 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3c3c72d3203fdef1",
+    "id": "da622d07425f4122",
     "type": "split",
     "children": [
       {
-        "id": "8563baad737476d5",
+        "id": "154989a17c6c7b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "c5aeeb3c3831a4db",
+            "id": "eaec449a929fc364",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
           {
-            "id": "9d183eab0a8f6bb9",
+            "id": "bf0d7667891e17db",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
+                "matchingCase": true,
+                "explainSearch": true,
                 "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "extraContext": true,
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
           {
-            "id": "3e15c4a0d373d39f",
+            "id": "960a4ae1a9210c76",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +130,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 290,
+    "collapsed": true
   },
   "right": {
-    "id": "81ec7ad521be215d",
+    "id": "d02d4287ea39b4ed",
     "type": "split",
     "children": [
       {
-        "id": "0aa17710b6a012dd",
+        "id": "25af4958f74803d5",
         "type": "tabs",
         "children": [
           {
-            "id": "74e6cc89d069cc92",
+            "id": "54f8217d1096a1a5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "gen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +159,42 @@
             }
           },
           {
-            "id": "609e4a0ab09c8110",
+            "id": "06f85fbce01bc84a",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "localgraph",
               "state": {
-                "file": "README.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "gen.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.5,
+                  "nodeSizeMultiplier": 1.56319444444444,
+                  "lineSizeMultiplier": 1.51215277777778,
+                  "collapse-forces": true,
+                  "centerStrength": 0.503472222222222,
+                  "repelStrength": 10,
+                  "linkStrength": 0.857638888888889,
+                  "linkDistance": 272,
+                  "scale": 0.6346285676930584,
+                  "close": true
+                }
               }
             }
           },
           {
-            "id": "ce19428474ba1a74",
+            "id": "994793da24cd192d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +205,37 @@
             }
           },
           {
-            "id": "59051c5672904484",
+            "id": "485c2cf4b665a437",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "gen.md"
+              }
+            }
+          },
+          {
+            "id": "2cd6c260765c706a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a5c5b90e227a0875",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e2457deff6cf037",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "gen.md"
               }
             }
           }
@@ -133,19 +243,33 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 304
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-book-search-plugin:Create new book note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "82806342237d93f3",
-  "lastOpenFiles": []
+  "active": "eaec449a929fc364",
+  "lastOpenFiles": [
+    "Христианская космогония.md",
+    "gen.md",
+    "home/homepage.md",
+    "home",
+    "README.md"
+  ]
 }

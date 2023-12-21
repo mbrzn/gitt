@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Blue Topaz",
+  "baseFontSize": 13,
+  "theme": "obsidian",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "snippet",
+    "custom-mermaid"
+  ]
+}

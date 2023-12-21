@@ -1,0 +1,3252 @@
+{
+  "workspaces": {
+    "Редактирование заметки": {
+      "main": {
+        "id": "af59f52db8b0f13e",
+        "type": "split",
+        "children": [
+          {
+            "id": "767865f9a1261eaa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bcdd8a2bf9c6b8da",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Project/Системы категорий и согласование их/Заметки сырые.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9f6200b61c521611",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Lit/Война и победа. Девятов.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "01c85fa1348b35d7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Lit/Пригожин как катализатор борьбы питерских против тандема Минобороны и Ростеха. Лепехин.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "474efbab93db21e3",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "da622d07425f4122",
+        "type": "split",
+        "children": [
+          {
+            "id": "154989a17c6c7b9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eaec449a929fc364",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "bf0d7667891e17db",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "byModifiedTimeReverse"
+                  }
+                }
+              },
+              {
+                "id": "960a4ae1a9210c76",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 290
+      },
+      "right": {
+        "id": "d02d4287ea39b4ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "25af4958f74803d5",
+            "type": "tabs",
+            "dimension": 64.42166910688141,
+            "children": [
+              {
+                "id": "54f8217d1096a1a5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "994793da24cd192d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "485c2cf4b665a437",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "2cd6c260765c706a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "1b3d29b6460345f5",
+            "type": "tabs",
+            "dimension": 35.57833089311859,
+            "children": [
+              {
+                "id": "06f85fbce01bc84a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -0.5,
+                      "nodeSizeMultiplier": 1.56319444444444,
+                      "lineSizeMultiplier": 1.51215277777778,
+                      "collapse-forces": true,
+                      "centerStrength": 0.503472222222222,
+                      "repelStrength": 10,
+                      "linkStrength": 0.857638888888889,
+                      "linkDistance": 272,
+                      "scale": 0.6346285676930585,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 395
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-book-search-plugin:Create new book note": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "474efbab93db21e3"
+    },
+    "Радуш мобильный": {
+      "main": {
+        "id": "af59f52db8b0f13e",
+        "type": "split",
+        "children": [
+          {
+            "id": "4cd5576dd258e69a",
+            "type": "split",
+            "children": [
+              {
+                "id": "6147463bd6c8bfcf",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "c3b00429a2a6e6de",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Daily/Войны на территории Восточной Европы в I-V внэ. Радюш О..md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    },
+                    "group": "6e9d7f66800010d5"
+                  }
+                ]
+              },
+              {
+                "id": "fe572947bdd99147",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "df6b62385046cabb",
+                    "type": "leaf",
+                    "state": {
+                      "type": "media-view",
+                      "state": {
+                        "info": {
+                          "host": 0,
+                          "id": "M4EzwSOz1H0",
+                          "iframe": "https://www.youtube.com/embed/M4EzwSOz1H0",
+                          "src": "https://youtu.be/M4EzwSOz1H0?t=1173",
+                          "hash": ""
+                        },
+                        "currentTime": 687.858533
+                      }
+                    },
+                    "group": "6e9d7f66800010d5"
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b5202b22207b4be1",
+        "type": "mobile-drawer",
+        "children": [],
+        "currentTab": 0
+      },
+      "right": {
+        "id": "e771a8b06bdac0d4",
+        "type": "mobile-drawer",
+        "children": [],
+        "currentTab": 0
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-book-search-plugin:Create new book note": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "c3b00429a2a6e6de"
+    },
+    "Конспектирование статьи": {
+      "main": {
+        "id": "af59f52db8b0f13e",
+        "type": "split",
+        "children": [
+          {
+            "id": "df110d7ff525c21d",
+            "type": "split",
+            "dimension": 26.537216828478964,
+            "children": [
+              {
+                "id": "767865f9a1261eaa",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "ab78376d84e54a5c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outline",
+                      "state": {
+                        "file": "Daily/Часть 1. Управление знаниями в Obsidian. Обработка информации. Рабочий процесс. Источники информации. Работа с заметками  Хабр.md"
+                      }
+                    },
+                    "group": "e86a715fd654ca5f"
+                  }
+                ]
+              },
+              {
+                "id": "d76e78cd4febb6b9",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "2883b671f605d3ae",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outline",
+                      "state": {
+                        "file": "Управление знаниями в Obsidian. Конспект.md"
+                      }
+                    },
+                    "group": "0db1bb54e7f2bb90"
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "2427590b2d675c92",
+            "type": "tabs",
+            "dimension": 41.58576051779935,
+            "children": [
+              {
+                "id": "48bf7f932686df2f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Управление знаниями в Obsidian. Конспект.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "0db1bb54e7f2bb90"
+              }
+            ]
+          },
+          {
+            "id": "ed968893846a1dc7",
+            "type": "tabs",
+            "dimension": 31.87702265372168,
+            "children": [
+              {
+                "id": "090205e0bb2b67e2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily/Часть 1. Управление знаниями в Obsidian. Обработка информации. Рабочий процесс. Источники информации. Работа с заметками  Хабр.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "e86a715fd654ca5f"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "da622d07425f4122",
+        "type": "split",
+        "children": [
+          {
+            "id": "154989a17c6c7b9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eaec449a929fc364",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "bf0d7667891e17db",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "byModifiedTimeReverse"
+                  }
+                }
+              },
+              {
+                "id": "960a4ae1a9210c76",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 290,
+        "collapsed": true
+      },
+      "right": {
+        "id": "d02d4287ea39b4ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "25af4958f74803d5",
+            "type": "tabs",
+            "dimension": 57.39385065885798,
+            "children": [
+              {
+                "id": "54f8217d1096a1a5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Управление знаниями в Obsidian. Конспект.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "994793da24cd192d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "485c2cf4b665a437",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Управление знаниями в Obsidian. Конспект.md"
+                  }
+                }
+              },
+              {
+                "id": "2cd6c260765c706a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "1b3d29b6460345f5",
+            "type": "tabs",
+            "dimension": 42.60614934114202,
+            "children": [
+              {
+                "id": "06f85fbce01bc84a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Управление знаниями в Obsidian. Конспект.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -0.5,
+                      "nodeSizeMultiplier": 1.56319444444444,
+                      "lineSizeMultiplier": 1.51215277777778,
+                      "collapse-forces": true,
+                      "centerStrength": 0.503472222222222,
+                      "repelStrength": 10,
+                      "linkStrength": 0.857638888888889,
+                      "linkDistance": 272,
+                      "scale": 0.6346285676930584,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 395,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-book-search-plugin:Create new book note": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "48bf7f932686df2f"
+    },
+    "Корневая заметка источника": {
+      "main": {
+        "id": "af59f52db8b0f13e",
+        "type": "split",
+        "children": [
+          {
+            "id": "0cc21382299deddc",
+            "type": "split",
+            "dimension": 35.07728894173603,
+            "children": [
+              {
+                "id": "cc626172eb7d81fe",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "9acbfd999a301e96",
+                    "type": "leaf",
+                    "state": {
+                      "type": "backlink",
+                      "state": {
+                        "file": "Управление знаниями в Obsidian.md",
+                        "collapseAll": false,
+                        "extraContext": false,
+                        "sortOrder": "alphabetical",
+                        "showSearch": false,
+                        "searchQuery": "",
+                        "backlinkCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    },
+                    "group": "fdc9e84ef7e4fef9"
+                  }
+                ]
+              },
+              {
+                "id": "7e4f91f3204ff07f",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "1853ae79c293fd00",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outgoing-link",
+                      "state": {
+                        "file": "Управление знаниями в Obsidian.md",
+                        "linksCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    },
+                    "group": "fdc9e84ef7e4fef9"
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "3e6ef5e19be57e0a",
+            "type": "tabs",
+            "dimension": 64.92271105826397,
+            "children": [
+              {
+                "id": "f1f1dabaaa97a349",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Управление знаниями в Obsidian.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "fdc9e84ef7e4fef9"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "da622d07425f4122",
+        "type": "split",
+        "children": [
+          {
+            "id": "154989a17c6c7b9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eaec449a929fc364",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "bf0d7667891e17db",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "byModifiedTimeReverse"
+                  }
+                }
+              },
+              {
+                "id": "960a4ae1a9210c76",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 290,
+        "collapsed": true
+      },
+      "right": {
+        "id": "d02d4287ea39b4ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "25af4958f74803d5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54f8217d1096a1a5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Управление знаниями в Obsidian.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b60051ca606fd582",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Управление знаниями в Obsidian.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.9999999999999997,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "06f85fbce01bc84a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Управление знаниями в Obsidian.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -0.5,
+                      "nodeSizeMultiplier": 1.56319444444444,
+                      "lineSizeMultiplier": 1.51215277777778,
+                      "collapse-forces": true,
+                      "centerStrength": 0.503472222222222,
+                      "repelStrength": 10,
+                      "linkStrength": 0.857638888888889,
+                      "linkDistance": 272,
+                      "scale": 0.6346285676930585,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "994793da24cd192d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "485c2cf4b665a437",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Управление знаниями в Obsidian.md"
+                  }
+                }
+              },
+              {
+                "id": "2cd6c260765c706a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7b8d968d16f53c62",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "a5c5b90e227a0875",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e2457deff6cf037",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Управление знаниями в Obsidian.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 395
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-book-search-plugin:Create new book note": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "f1f1dabaaa97a349"
+    },
+    "Иерархия заметки": {
+      "main": {
+        "id": "af59f52db8b0f13e",
+        "type": "split",
+        "children": [
+          {
+            "id": "26453da148378a1d",
+            "type": "split",
+            "dimension": 34.36385255648038,
+            "children": [
+              {
+                "id": "866ba8869c942445",
+                "type": "tabs",
+                "dimension": 62.28070175438597,
+                "children": [
+                  {
+                    "id": "616d9d0c767cbc75",
+                    "type": "leaf",
+                    "state": {
+                      "type": "BC-matrix",
+                      "state": {}
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "0212b3535f13dbaa",
+                "type": "tabs",
+                "dimension": 37.719298245614034,
+                "children": [
+                  {
+                    "id": "1853ae79c293fd00",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outgoing-link",
+                      "state": {
+                        "file": "Михаил Тимин. Первым делом — самолеты! Или как все было на самом деле во время войны.md",
+                        "linksCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    },
+                    "group": "fdc9e84ef7e4fef9"
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "3e6ef5e19be57e0a",
+            "type": "tabs",
+            "dimension": 65.63614744351962,
+            "children": [
+              {
+                "id": "f1f1dabaaa97a349",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Михаил Тимин. Первым делом — самолеты! Или как все было на самом деле во время войны.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "fdc9e84ef7e4fef9"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "da622d07425f4122",
+        "type": "split",
+        "children": [
+          {
+            "id": "154989a17c6c7b9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eaec449a929fc364",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "bf0d7667891e17db",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "byModifiedTimeReverse"
+                  }
+                }
+              },
+              {
+                "id": "960a4ae1a9210c76",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 290,
+        "collapsed": true
+      },
+      "right": {
+        "id": "d02d4287ea39b4ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "25af4958f74803d5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54f8217d1096a1a5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Михаил Тимин. Первым делом — самолеты! Или как все было на самом деле во время войны.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "06f85fbce01bc84a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Михаил Тимин. Первым делом — самолеты! Или как все было на самом деле во время войны.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -0.5,
+                      "nodeSizeMultiplier": 1.56319444444444,
+                      "lineSizeMultiplier": 1.51215277777778,
+                      "collapse-forces": true,
+                      "centerStrength": 0.503472222222222,
+                      "repelStrength": 10,
+                      "linkStrength": 0.857638888888889,
+                      "linkDistance": 272,
+                      "scale": 0.6346285676930585,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "994793da24cd192d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "485c2cf4b665a437",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Михаил Тимин. Первым делом — самолеты! Или как все было на самом деле во время войны.md"
+                  }
+                }
+              },
+              {
+                "id": "2cd6c260765c706a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "a5c5b90e227a0875",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e2457deff6cf037",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Михаил Тимин. Первым делом — самолеты! Или как все было на самом деле во время войны.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 395
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "obsidian-projects:Open projects": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "periodic-notes:Open today": false,
+          "breadcrumbs:Breadcrumbs Visualisation": false,
+          "obsidian-book-search-plugin:Create new book note": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "f1f1dabaaa97a349"
+    },
+    "video": {
+      "main": {
+        "id": "af59f52db8b0f13e",
+        "type": "split",
+        "children": [
+          {
+            "id": "26453da148378a1d",
+            "type": "split",
+            "dimension": 24.838187702265373,
+            "children": [
+              {
+                "id": "866ba8869c942445",
+                "type": "tabs",
+                "dimension": 62.28070175438597,
+                "children": [
+                  {
+                    "id": "616d9d0c767cbc75",
+                    "type": "leaf",
+                    "state": {
+                      "type": "BC-matrix",
+                      "state": {}
+                    }
+                  },
+                  {
+                    "id": "a7bbbe8704f34703",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Рождение государства. Михаил Кром. Родина слонов 79.md",
+                        "mode": "preview",
+                        "backlinks": false,
+                        "source": false
+                      }
+                    },
+                    "group": "f03039d0d63b4a46"
+                  }
+                ],
+                "currentTab": 1
+              },
+              {
+                "id": "0212b3535f13dbaa",
+                "type": "tabs",
+                "dimension": 37.719298245614034,
+                "children": [
+                  {
+                    "id": "1853ae79c293fd00",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outgoing-link",
+                      "state": {
+                        "file": "Рождение государства. Михаил Кром. Родина слонов 79.md",
+                        "linksCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "3e6ef5e19be57e0a",
+            "type": "tabs",
+            "dimension": 38.10679611650485,
+            "children": [
+              {
+                "id": "f1f1dabaaa97a349",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Программе установки не удалось создать новый или найти существующий системный раздел.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1b2069594438aa0a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Рождение государства. Михаил Кром. Родина слонов 79.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "f03039d0d63b4a46"
+              },
+              {
+                "id": "120abb11f1a6473d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "my net.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "673ea1a2bc9c8f2a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Рождение государства. Михаил Кром. Родина слонов 79.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "823996f935f6bcec"
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "ed2cf82c97868edd",
+            "type": "tabs",
+            "dimension": 37.055016181229774,
+            "children": [
+              {
+                "id": "07dac43a25a63c40",
+                "type": "leaf",
+                "state": {
+                  "type": "media-view",
+                  "state": {
+                    "info": {
+                      "host": 0,
+                      "id": "B0y0Um_NvLY",
+                      "iframe": "https://www.youtube.com/embed/B0y0Um_NvLY",
+                      "src": "https://youtu.be/B0y0Um_NvLY?si=HhH6dcy6wiJs5Wnq",
+                      "hash": ""
+                    },
+                    "currentTime": 2198.680705
+                  }
+                },
+                "group": "823996f935f6bcec"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "da622d07425f4122",
+        "type": "split",
+        "children": [
+          {
+            "id": "154989a17c6c7b9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eaec449a929fc364",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "bf0d7667891e17db",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "byModifiedTimeReverse"
+                  }
+                }
+              },
+              {
+                "id": "960a4ae1a9210c76",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 396,
+        "collapsed": true
+      },
+      "right": {
+        "id": "d02d4287ea39b4ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "25af4958f74803d5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54f8217d1096a1a5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Рождение государства. Михаил Кром. Родина слонов 79.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "06f85fbce01bc84a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Рождение государства. Михаил Кром. Родина слонов 79.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -0.5,
+                      "nodeSizeMultiplier": 1.56319444444444,
+                      "lineSizeMultiplier": 1.51215277777778,
+                      "collapse-forces": true,
+                      "centerStrength": 0.503472222222222,
+                      "repelStrength": 10,
+                      "linkStrength": 0.857638888888889,
+                      "linkDistance": 272,
+                      "scale": 0.6346285676930585,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "994793da24cd192d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "485c2cf4b665a437",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Рождение государства. Михаил Кром. Родина слонов 79.md"
+                  }
+                }
+              },
+              {
+                "id": "2cd6c260765c706a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "a5c5b90e227a0875",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e2457deff6cf037",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Рождение государства. Михаил Кром. Родина слонов 79.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 395,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "homepage:Open homepage": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "periodic-notes:Open today": false,
+          "breadcrumbs:Breadcrumbs Visualisation": false,
+          "obsidian-book-search-plugin:Create new book note": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "673ea1a2bc9c8f2a"
+    },
+    "две панели - view & edit": {
+      "main": {
+        "id": "af59f52db8b0f13e",
+        "type": "split",
+        "children": [
+          {
+            "id": "866ba8869c942445",
+            "type": "tabs",
+            "dimension": 41.10552763819095,
+            "children": [
+              {
+                "id": "bdcfe8e48a0c92b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Сети для самых маленьких. Часть нулевая. Планирование - linkmeup.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "0b6f7e6c6bdabf0e"
+              }
+            ]
+          },
+          {
+            "id": "3e6ef5e19be57e0a",
+            "type": "tabs",
+            "dimension": 58.89447236180905,
+            "children": [
+              {
+                "id": "f1f1dabaaa97a349",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Сети для самых маленьких. Часть нулевая. Планирование - linkmeup.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "0b6f7e6c6bdabf0e"
+              },
+              {
+                "id": "cf0ca0fdf722aece",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "диагностика и ремонт оборудования компьютера.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "da618bcddced1b00",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d3f9b8b0824ab05e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Intel. Setting up NIC Teaming for Windows Server 2019.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "da622d07425f4122",
+        "type": "split",
+        "children": [
+          {
+            "id": "154989a17c6c7b9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eaec449a929fc364",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "bf0d7667891e17db",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "byModifiedTimeReverse"
+                  }
+                }
+              },
+              {
+                "id": "960a4ae1a9210c76",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 290,
+        "collapsed": true
+      },
+      "right": {
+        "id": "d02d4287ea39b4ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "25af4958f74803d5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54f8217d1096a1a5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Сети для самых маленьких. Часть нулевая. Планирование - linkmeup.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "06f85fbce01bc84a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Сети для самых маленьких. Часть нулевая. Планирование - linkmeup.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -0.5,
+                      "nodeSizeMultiplier": 1.56319444444444,
+                      "lineSizeMultiplier": 1.51215277777778,
+                      "collapse-forces": true,
+                      "centerStrength": 0.503472222222222,
+                      "repelStrength": 10,
+                      "linkStrength": 0.857638888888889,
+                      "linkDistance": 272,
+                      "scale": 0.6346285676930585,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "994793da24cd192d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "485c2cf4b665a437",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Сети для самых маленьких. Часть нулевая. Планирование - linkmeup.md"
+                  }
+                }
+              },
+              {
+                "id": "2cd6c260765c706a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "a5c5b90e227a0875",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e2457deff6cf037",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Сети для самых маленьких. Часть нулевая. Планирование - linkmeup.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 241
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "homepage:Open homepage": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "periodic-notes:Open today": false,
+          "breadcrumbs:Breadcrumbs Visualisation": false,
+          "obsidian-book-search-plugin:Create new book note": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "f1f1dabaaa97a349"
+    },
+    "prolog": {
+      "main": {
+        "id": "af59f52db8b0f13e",
+        "type": "split",
+        "children": [
+          {
+            "id": "26453da148378a1d",
+            "type": "split",
+            "dimension": 34.36385255648038,
+            "children": [
+              {
+                "id": "866ba8869c942445",
+                "type": "tabs",
+                "dimension": 62.28070175438597,
+                "children": [
+                  {
+                    "id": "616d9d0c767cbc75",
+                    "type": "leaf",
+                    "state": {
+                      "type": "BC-matrix",
+                      "state": {}
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "0212b3535f13dbaa",
+                "type": "tabs",
+                "dimension": 37.719298245614034,
+                "children": [
+                  {
+                    "id": "1853ae79c293fd00",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outgoing-link",
+                      "state": {
+                        "file": "курс программирования на языке пролог.md",
+                        "linksCollapsed": false,
+                        "unlinkedCollapsed": true
+                      }
+                    },
+                    "group": "fdc9e84ef7e4fef9"
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "3e6ef5e19be57e0a",
+            "type": "tabs",
+            "dimension": 65.63614744351962,
+            "children": [
+              {
+                "id": "f1f1dabaaa97a349",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "курс программирования на языке пролог.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "fdc9e84ef7e4fef9"
+              },
+              {
+                "id": "5b470091a6bca6e3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "prolog How To.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "eb4566587f31257a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "выполнить Prolog программу на кириллице.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bf6d911c864ccfc1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "остановить интерпретатор Prolog.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2c0a07c7d1796685",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "остановить интерпретатор Prolog.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1a8aa37d034dcf03",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "выполнить Prolog программу в IDE Visual Code.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "da622d07425f4122",
+        "type": "split",
+        "children": [
+          {
+            "id": "154989a17c6c7b9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eaec449a929fc364",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "bf0d7667891e17db",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "ImageMagick",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "byModifiedTimeReverse"
+                  }
+                }
+              },
+              {
+                "id": "960a4ae1a9210c76",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 290,
+        "collapsed": true
+      },
+      "right": {
+        "id": "d02d4287ea39b4ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "25af4958f74803d5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54f8217d1096a1a5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "курс программирования на языке пролог.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "06f85fbce01bc84a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "курс программирования на языке пролог.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -0.5,
+                      "nodeSizeMultiplier": 1.56319444444444,
+                      "lineSizeMultiplier": 1.51215277777778,
+                      "collapse-forces": true,
+                      "centerStrength": 0.503472222222222,
+                      "repelStrength": 10,
+                      "linkStrength": 0.857638888888889,
+                      "linkDistance": 272,
+                      "scale": 0.6346285676930585,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "994793da24cd192d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "485c2cf4b665a437",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "курс программирования на языке пролог.md"
+                  }
+                }
+              },
+              {
+                "id": "2cd6c260765c706a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "a5c5b90e227a0875",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e2457deff6cf037",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "курс программирования на языке пролог.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 395
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "homepage:Open homepage": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "periodic-notes:Open today": false,
+          "breadcrumbs:Breadcrumbs Visualisation": false,
+          "obsidian-book-search-plugin:Create new book note": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "06f85fbce01bc84a"
+    },
+    "LVM": {
+      "main": {
+        "id": "af59f52db8b0f13e",
+        "type": "split",
+        "children": [
+          {
+            "id": "866ba8869c942445",
+            "type": "tabs",
+            "dimension": 36.527514231499055,
+            "children": [
+              {
+                "id": "bdcfe8e48a0c92b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "LVM для начинающих, Буранов.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "e758a5105714890b"
+              }
+            ]
+          },
+          {
+            "id": "3e6ef5e19be57e0a",
+            "type": "tabs",
+            "dimension": 63.47248576850095,
+            "children": [
+              {
+                "id": "459a9166e8ca4cd0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "LVM для начинающих, Буранов.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "e758a5105714890b"
+              },
+              {
+                "id": "18446988d34ee2ac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "создать lv lvm raid1.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "43a8d8638d9b651a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Повесть о Linux и LVM (Logical Volume Manager)  Kurgan-Telecom Ru  Информационные технологии.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1f1a904adf55920a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "удалить pv из vg.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e7d399988e10819b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Настраиваем LVM, используем LVM RAID 1, тестируем - GhostIAm Blog.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3d16808faef671f8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "LVM Index.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a871a0d3dbf9d23f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Реализация менеджера LVM.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b3d4fcd6580dbfbc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Device Mapper and Linux LVM.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "da622d07425f4122",
+        "type": "split",
+        "children": [
+          {
+            "id": "154989a17c6c7b9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eaec449a929fc364",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "bf0d7667891e17db",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "дерево",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "960a4ae1a9210c76",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 290,
+        "collapsed": true
+      },
+      "right": {
+        "id": "d02d4287ea39b4ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "25af4958f74803d5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54f8217d1096a1a5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "LVM для начинающих, Буранов.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "06f85fbce01bc84a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "LVM для начинающих, Буранов.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -0.5,
+                      "nodeSizeMultiplier": 1.56319444444444,
+                      "lineSizeMultiplier": 1.51215277777778,
+                      "collapse-forces": true,
+                      "centerStrength": 0.503472222222222,
+                      "repelStrength": 10,
+                      "linkStrength": 0.857638888888889,
+                      "linkDistance": 272,
+                      "scale": 0.6346285676930584,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "994793da24cd192d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "485c2cf4b665a437",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "LVM для начинающих, Буранов.md"
+                  }
+                }
+              },
+              {
+                "id": "2cd6c260765c706a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "a5c5b90e227a0875",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e2457deff6cf037",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "LVM для начинающих, Буранов.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 269
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "homepage:Open homepage": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "periodic-notes:Open today": false,
+          "breadcrumbs:Breadcrumbs Visualisation": false,
+          "obsidian-book-search-plugin:Create new book note": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "459a9166e8ca4cd0"
+    },
+    "Linux": {
+      "main": {
+        "id": "af59f52db8b0f13e",
+        "type": "split",
+        "children": [
+          {
+            "id": "866ba8869c942445",
+            "type": "tabs",
+            "dimension": 43.4549356223176,
+            "children": [
+              {
+                "id": "bdcfe8e48a0c92b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "OTUS. Linux для начинающих.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "e758a5105714890b"
+              }
+            ]
+          },
+          {
+            "id": "3e6ef5e19be57e0a",
+            "type": "tabs",
+            "dimension": 56.54506437768241,
+            "children": [
+              {
+                "id": "459a9166e8ca4cd0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "OTUS. Linux для начинающих.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "e758a5105714890b"
+              },
+              {
+                "id": "4566053b6e90a5d0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Тестирование 12. Linux для начинающих OTUS.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2bf97000a739e4a9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Otus. Administrator Linux. Basic.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9f28822c3c0dacaa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Stepik. Введение в Linux.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "da622d07425f4122",
+        "type": "split",
+        "children": [
+          {
+            "id": "154989a17c6c7b9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eaec449a929fc364",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "bf0d7667891e17db",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "byModifiedTimeReverse"
+                  }
+                }
+              },
+              {
+                "id": "960a4ae1a9210c76",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 290,
+        "collapsed": true
+      },
+      "right": {
+        "id": "d02d4287ea39b4ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "25af4958f74803d5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54f8217d1096a1a5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "OTUS. Linux для начинающих.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "06f85fbce01bc84a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "OTUS. Linux для начинающих.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -0.5,
+                      "nodeSizeMultiplier": 1.56319444444444,
+                      "lineSizeMultiplier": 1.51215277777778,
+                      "collapse-forces": true,
+                      "centerStrength": 0.503472222222222,
+                      "repelStrength": 10,
+                      "linkStrength": 0.857638888888889,
+                      "linkDistance": 272,
+                      "scale": 0.6346285676930584,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "994793da24cd192d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "485c2cf4b665a437",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "OTUS. Linux для начинающих.md"
+                  }
+                }
+              },
+              {
+                "id": "2cd6c260765c706a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "a5c5b90e227a0875",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e2457deff6cf037",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "OTUS. Linux для начинающих.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 304
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "homepage:Open homepage": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "periodic-notes:Open today": false,
+          "breadcrumbs:Breadcrumbs Visualisation": false,
+          "obsidian-book-search-plugin:Create new book note": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "459a9166e8ca4cd0"
+    },
+    "видео лекция": {
+      "main": {
+        "id": "af59f52db8b0f13e",
+        "type": "split",
+        "children": [
+          {
+            "id": "767865f9a1261eaa",
+            "type": "tabs",
+            "dimension": 15.599705665930832,
+            "children": [
+              {
+                "id": "bcdd8a2bf9c6b8da",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9f6200b61c521611",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "01c85fa1348b35d7",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f1ec89f9eda2ae45",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "LVM перенос данных, надежное хранение.  Курс Administrator Linux. Professional.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "b6f494249ad840af",
+            "type": "tabs",
+            "dimension": 38.11626195732156,
+            "children": [
+              {
+                "id": "e88b17f95d59158f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "LVM перенос данных, надежное хранение.  Курс Administrator Linux. Professional.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "4d4f163a11ad1c18"
+              },
+              {
+                "id": "8b7c21139170ccef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "создать lv lvm raid1.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "0f117c4ff59b0fee",
+            "type": "tabs",
+            "dimension": 46.28403237674761,
+            "children": [
+              {
+                "id": "b1b0e849464de545",
+                "type": "leaf",
+                "state": {
+                  "type": "media-view",
+                  "state": {
+                    "info": {
+                      "host": 0,
+                      "id": "aqA7-lXY3Gs",
+                      "iframe": "https://www.youtube.com/embed/aqA7-lXY3Gs",
+                      "src": "https://youtu.be/aqA7-lXY3Gs",
+                      "hash": ""
+                    },
+                    "currentTime": 6812.954368
+                  }
+                },
+                "group": "4d4f163a11ad1c18"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "da622d07425f4122",
+        "type": "split",
+        "children": [
+          {
+            "id": "154989a17c6c7b9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eaec449a929fc364",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "bf0d7667891e17db",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "byModifiedTimeReverse"
+                  }
+                }
+              },
+              {
+                "id": "960a4ae1a9210c76",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 311,
+        "collapsed": true
+      },
+      "right": {
+        "id": "d02d4287ea39b4ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "25af4958f74803d5",
+            "type": "tabs",
+            "dimension": 64.42166910688141,
+            "children": [
+              {
+                "id": "54f8217d1096a1a5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "LVM перенос данных, надежное хранение.  Курс Administrator Linux. Professional.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "994793da24cd192d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "485c2cf4b665a437",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "LVM перенос данных, надежное хранение.  Курс Administrator Linux. Professional.md"
+                  }
+                }
+              },
+              {
+                "id": "2cd6c260765c706a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "1b3d29b6460345f5",
+            "type": "tabs",
+            "dimension": 35.57833089311859,
+            "children": [
+              {
+                "id": "06f85fbce01bc84a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "LVM перенос данных, надежное хранение.  Курс Administrator Linux. Professional.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -0.5,
+                      "nodeSizeMultiplier": 1.56319444444444,
+                      "lineSizeMultiplier": 1.51215277777778,
+                      "collapse-forces": true,
+                      "centerStrength": 0.503472222222222,
+                      "repelStrength": 10,
+                      "linkStrength": 0.857638888888889,
+                      "linkDistance": 272,
+                      "scale": 0.6346285676930588,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 395,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "homepage:Open homepage": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "periodic-notes:Open today": false,
+          "breadcrumbs:Breadcrumbs Visualisation": false,
+          "obsidian-book-search-plugin:Create new book note": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "e88b17f95d59158f"
+    },
+    "git и hugo": {
+      "main": {
+        "id": "af59f52db8b0f13e",
+        "type": "split",
+        "children": [
+          {
+            "id": "866ba8869c942445",
+            "type": "tabs",
+            "dimension": 43.4549356223176,
+            "children": [
+              {
+                "id": "bdcfe8e48a0c92b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GIT. Otus. Administrator Linux. Basic.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "3e6ef5e19be57e0a",
+            "type": "tabs",
+            "dimension": 56.54506437768241,
+            "children": [
+              {
+                "id": "4566053b6e90a5d0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GIT. Домашнее задание. Otus. Administrator Linux. Basic.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d2202263985306eb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "настройка ssh соединения Ubuntu-ws и Ubuntu-srv.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ebe5d5dfba5669a4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GIT. Домашнее задание. Otus. Administrator Linux. Basic.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4138fbb21c396218",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "скопировать файл из github репозитория.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a817754656c9de0f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "git How To.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7281c0f9a4e3273e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "клонировать репозиторий с Github на компьютер.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2be2a367874324ec",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "git Index.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e49e8a952fc9da1a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Hugo Index.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "da622d07425f4122",
+        "type": "split",
+        "children": [
+          {
+            "id": "154989a17c6c7b9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eaec449a929fc364",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "bf0d7667891e17db",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": true,
+                    "collapseAll": false,
+                    "extraContext": true,
+                    "sortOrder": "byModifiedTimeReverse"
+                  }
+                }
+              },
+              {
+                "id": "960a4ae1a9210c76",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 290,
+        "collapsed": true
+      },
+      "right": {
+        "id": "d02d4287ea39b4ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "25af4958f74803d5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54f8217d1096a1a5",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "GIT. Домашнее задание. Otus. Administrator Linux. Basic.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "06f85fbce01bc84a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "GIT. Домашнее задание. Otus. Administrator Linux. Basic.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -0.5,
+                      "nodeSizeMultiplier": 1.56319444444444,
+                      "lineSizeMultiplier": 1.51215277777778,
+                      "collapse-forces": true,
+                      "centerStrength": 0.503472222222222,
+                      "repelStrength": 10,
+                      "linkStrength": 0.857638888888889,
+                      "linkDistance": 272,
+                      "scale": 0.6346285676930584,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "994793da24cd192d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "485c2cf4b665a437",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "GIT. Домашнее задание. Otus. Administrator Linux. Basic.md"
+                  }
+                }
+              },
+              {
+                "id": "2cd6c260765c706a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "a5c5b90e227a0875",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e2457deff6cf037",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "GIT. Домашнее задание. Otus. Administrator Linux. Basic.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 304
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "homepage:Open homepage": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "periodic-notes:Open today": false,
+          "breadcrumbs:Breadcrumbs Visualisation": false,
+          "obsidian-book-search-plugin:Create new book note": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "4566053b6e90a5d0"
+    }
+  },
+  "active": "Linux"
+}

@@ -1,0 +1,326 @@
+{
+  "savedFeeds": {
+    "Запуск завтра": {
+      "title": "Запуск завтра",
+      "url": "https://feeds.libsyn.com/230747/rss",
+      "artworkUrl": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/04/09/17/040917fa-e3d3-d545-bf92-40b33a6ffc3b/mza_11088859810742017372.jpg/100x100bb.jpg",
+      "collectionId": 1488945593
+    },
+    "Кафка и кафкианство  •  Arzamas": {
+      "title": "Кафка и кафкианство  •  Arzamas",
+      "url": "https://arzamas.academy/courses/1106",
+      "artworkUrl": ""
+    },
+    "Мир Франца Кафки и современность": {
+      "title": "Мир Франца Кафки и современность",
+      "url": "https://music.yandex.ru/album/14288646/track/78992633",
+      "artworkUrl": ""
+    }
+  },
+  "podNotes": {},
+  "defaultPlaybackRate": 1,
+  "playedEpisodes": {
+    "Untitled 3": {
+      "title": "Untitled 3",
+      "podcastName": "local file",
+      "time": 0,
+      "duration": 0,
+      "finished": true
+    },
+    "podcasts": {
+      "title": "podcasts",
+      "podcastName": "local file",
+      "time": 0,
+      "duration": 0,
+      "finished": true
+    },
+    "Untitled 4": {
+      "title": "Untitled 4",
+      "podcastName": "local file",
+      "time": 0,
+      "duration": 0,
+      "finished": true
+    },
+    "Часть 3. Управление знаниями в Obsidian. Продвинутые техники. Excalibrain. Spaced repetition. Breadcrumbs. Longform  Хабар": {
+      "title": "Часть 3. Управление знаниями в Obsidian. Продвинутые техники. Excalibrain. Spaced repetition. Breadcrumbs. Longform  Хабар",
+      "podcastName": "local file",
+      "time": 0,
+      "duration": 0,
+      "finished": true
+    },
+    "Бан для Шерон Стоун. Как работают сервисы знакомств": {
+      "title": "Бан для Шерон Стоун. Как работают сервисы знакомств",
+      "podcastName": "Запуск завтра",
+      "time": 610.459826,
+      "duration": 2325.681633,
+      "finished": false
+    },
+    "Квантовые компьютеры еще не появились, но уже меняют мир. Почему?": {
+      "title": "Квантовые компьютеры еще не появились, но уже меняют мир. Почему?",
+      "podcastName": "Запуск завтра",
+      "time": 1272.065199,
+      "duration": 3695.046531,
+      "finished": false
+    },
+    "Лекция Максима Жука о Франце Кафке во Все Свободны": {
+      "title": "Лекция Максима Жука о Франце Кафке во Все Свободны",
+      "podcastName": "local file",
+      "time": 0,
+      "duration": 0,
+      "finished": true
+    }
+  },
+  "favorites": {
+    "icon": "lucide-star",
+    "name": "Favorites",
+    "shouldEpisodeRemoveAfterPlay": false,
+    "shouldRepeat": false,
+    "episodes": []
+  },
+  "queue": {
+    "icon": "list-ordered",
+    "name": "Queue",
+    "shouldEpisodeRemoveAfterPlay": true,
+    "shouldRepeat": false,
+    "episodes": [
+      {
+        "title": "Лекция Максима Жука о Франце Кафке во Все Свободны",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Лекция Максима Жука о Франце Кафке во Все Свободны]]",
+        "streamUrl": "blob:http://localhost/7709f6c7-705c-4ab8-869a-2d82249efb56",
+        "episodeDate": "2023-06-17T19:31:18.839Z"
+      },
+      {
+        "title": "Квантовые компьютеры еще не появились, но уже меняют мир. Почему?",
+        "streamUrl": "https://traffic.libsyn.com/secure/zapuskzavtra/Zap_S08E20_____04.mp3?dest-id=1701647",
+        "url": "https://zapuskzavtra.libsyn.com/h4zvpz8xv3cv",
+        "description": "<p>Пройдите, пожалуйста, наш опрос: <a href= \"https://4zz1gujb3ju.typeform.com/to/VoSmy7DN\">https://4zz1gujb3ju.typeform.com/to/VoSmy7DN</a> </p> <p><br /> Для многих важных задач современного мира — например, для поиска новых лекарств или построения оптимальных маршрутов, — мощностей даже самых продвинутых компьютеров не хватает. Ученые десятилетиями пытаются обойти ограничения, накладываемые классической физикой, и создать принципиально новый способ производить вычисления. Гость эпизода Алексей Федоров — один из таких ученых. Разбираемся, что такое суперпозиции, как физики запутывают атомы и к чему приведет появление квантовых компьютеров. Осторожно, этот разговор выходит за рамки человеческого воображения!</p> <p> </p> <p>Реклама. Курсы для опытных программистов от Яндекс Практикума: <a href= \"https://clck.ru/337ShX\">https://clck.ru/337ShX</a> </p> <p> </p> <p>Подкаст «Конкуренты» от студии Либо/Либо: <a href= \"https://podcast.ru/1657621781\">https://podcast.ru/1657621781</a> </p> <p> </p> <p>Упомянутые книги: <br /> <br /></p> <p>Стивен Хокинг «Краткая история времени» <br /> <br /></p> <p>Джон Прескилл «Квантовая информация и квантовые вычисления»<br /> <br /></p> <p>Нильсен М., Чанг И. «Квантовые вычисления и квантовая информация»<br /> <br /></p> <p>Ричард Фейнман «Лекции по квантовой механике»</p> <p> </p> <p class=\"p1\">Подписаться на «Запуск++» в Телеграме: <a href= \"https://t.me/+N_AopnXC0dBkMGQy\">https://t.me/+N_AopnXC0dBkMGQy</a> <br />  <br /></p> <p class=\"p1\">Подписаться на Либо/Либо+ в Телеграме, куда включены эпизоды «Запуск++»: <a href= \"https://t.me/+LXZx5JRqO4o0MjJi\">https://t.me/+LXZx5JRqO4o0MjJi</a> </p> <p class=\"p3\"> </p> <p class=\"p3\"><span class=\"s1\">Чат Запуска в телеграме: <a href= \"https://t.me/zapuskzavtra\">https://t.me/zapuskzavtra</a> </span></p> <p class=\"p3\"><span class=\"s1\"><br /> Связаться:</span> <a href= \"mailto:zapuskzavtra@gmail.com\">zapuskzavtra@gmail.com</a></p> <p class=\"p3\"> </p> <p class=\"p3\">Партнер этого подкаста — Яндекс Практикум. <a href= \"https://practicum.yandex.ru/\">https://practicum.yandex.ru/</a> </p> <p class=\"p3\"> </p> <div class= \"product-hero-desc product-hero-desc--spacer-bottom-large\"> <p dir=\"ltr\" data-test-bidi=\"\">Редакторка — Маша Агличева;</p> <p dir=\"ltr\" data-test-bidi=\"\">Продюсерка — Настя Медведева;</p> <p dir=\"ltr\" data-test-bidi=\"\">Звукорежиссер — Юра Шустицкий;</p> <p dir=\"ltr\" data-test-bidi=\"\">Дизайнер обложки — Петр Сутупов.</p> <p dir=\"ltr\" data-test-bidi=\"\"> </p> <p dir=\"ltr\" data-test-bidi=\"\">_____________</p> <p dir=\"ltr\" data-test-bidi=\"\"> </p> <p dir=\"ltr\" data-test-bidi=\"\">Это подкаст студии «Либо/Либо» — <a href=\"http://libolibo.ru/\">libolibo.ru</a></p> <p dir=\"ltr\" data-test-bidi=\"\"> </p> <p dir=\"ltr\" data-test-bidi=\"\">Instagram студии  — <a href= \"http://instagram.com/libolibostudio\">Instagram.com/libolibostudio</a></p> <p dir=\"ltr\" data-test-bidi=\"\"> </p> <p dir=\"ltr\" data-test-bidi=\"\">Telegram студии — <a href= \"https://t.me/libolibostudio\">t.me/libolibostudio</a></p> <p dir=\"ltr\" data-test-bidi=\"\"> </p> <p dir=\"ltr\" data-test-bidi=\"\">Наш YouTube канал — <a href= \"http://youtube.com/c/%D0%9B%D0%B8%D0%B1%D0%BE%D0%9B%D0%B8%D0%B1%D0%BE\">youtube.com/c/ЛибоЛибо</a></p> <p dir=\"ltr\" data-test-bidi=\"\"> </p> <p dir=\"ltr\" data-test-bidi=\"\">Группа в VK  — <a href= \"http://vk.com/libolibostudio\">vk.com/libolibostudio</a></p> </div>",
+        "content": "<p>Пройдите, пожалуйста, наш опрос: <a href= \"https://4zz1gujb3ju.typeform.com/to/VoSmy7DN\">https://4zz1gujb3ju.typeform.com/to/VoSmy7DN</a> </p> <p> Для многих важных задач современного мира — например, для поиска новых лекарств или построения оптимальных маршрутов, — мощностей даже самых продвинутых компьютеров не хватает. Ученые десятилетиями пытаются обойти ограничения, накладываемые классической физикой, и создать принципиально новый способ производить вычисления. Гость эпизода Алексей Федоров — один из таких ученых. Разбираемся, что такое суперпозиции, как физики запутывают атомы и к чему приведет появление квантовых компьютеров. Осторожно, этот разговор выходит за рамки человеческого воображения!</p> <p> </p> <p>Реклама. Курсы для опытных программистов от Яндекс Практикума: <a href= \"https://clck.ru/337ShX\">https://clck.ru/337ShX</a> </p> <p> </p> <p>Подкаст «Конкуренты» от студии Либо/Либо: <a href= \"https://podcast.ru/1657621781\">https://podcast.ru/1657621781</a> </p> <p> </p> <p>Упомянутые книги:  </p> <p>Стивен Хокинг «Краткая история времени»  </p> <p>Джон Прескилл «Квантовая информация и квантовые вычисления» </p> <p>Нильсен М., Чанг И. «Квантовые вычисления и квантовая информация» </p> <p>Ричард Фейнман «Лекции по квантовой механике»</p> <p> </p> <p class=\"p1\">Подписаться на «Запуск++» в Телеграме: <a href= \"https://t.me/+N_AopnXC0dBkMGQy\">https://t.me/+N_AopnXC0dBkMGQy</a>   </p> <p class=\"p1\">Подписаться на Либо/Либо+ в Телеграме, куда включены эпизоды «Запуск++»: <a href= \"https://t.me/+LXZx5JRqO4o0MjJi\">https://t.me/+LXZx5JRqO4o0MjJi</a> </p> <p class=\"p3\"> </p> <p class=\"p3\">Чат Запуска в телеграме: <a href= \"https://t.me/zapuskzavtra\">https://t.me/zapuskzavtra</a> </p> <p class=\"p3\"> Связаться: <a href= \"mailto:zapuskzavtra@gmail.com\">zapuskzavtra@gmail.com</a></p> <p class=\"p3\"> </p> <p class=\"p3\">Партнер этого подкаста — Яндекс Практикум. <a href= \"https://practicum.yandex.ru/\">https://practicum.yandex.ru/</a> </p> <p class=\"p3\"> </p>  <p dir=\"ltr\" data-test-bidi=\"\">Редакторка — Маша Агличева;</p> <p dir=\"ltr\" data-test-bidi=\"\">Продюсерка — Настя Медведева;</p> <p dir=\"ltr\" data-test-bidi=\"\">Звукорежиссер — Юра Шустицкий;</p> <p dir=\"ltr\" data-test-bidi=\"\">Дизайнер обложки — Петр Сутупов.</p> <p dir=\"ltr\" data-test-bidi=\"\"> </p> <p dir=\"ltr\" data-test-bidi=\"\">_____________</p> <p dir=\"ltr\" data-test-bidi=\"\"> </p> <p dir=\"ltr\" data-test-bidi=\"\">Это подкаст студии «Либо/Либо» — <a href=\"http://libolibo.ru/\">libolibo.ru</a></p> <p dir=\"ltr\" data-test-bidi=\"\"> </p> <p dir=\"ltr\" data-test-bidi=\"\">Instagram студии  — <a href= \"http://instagram.com/libolibostudio\">Instagram.com/libolibostudio</a></p> <p dir=\"ltr\" data-test-bidi=\"\"> </p> <p dir=\"ltr\" data-test-bidi=\"\">Telegram студии — <a href= \"https://t.me/libolibostudio\">t.me/libolibostudio</a></p> <p dir=\"ltr\" data-test-bidi=\"\"> </p> <p dir=\"ltr\" data-test-bidi=\"\">Наш YouTube канал — <a href= \"http://youtube.com/c/%D0%9B%D0%B8%D0%B1%D0%BE%D0%9B%D0%B8%D0%B1%D0%BE\">youtube.com/c/ЛибоЛибо</a></p> <p dir=\"ltr\" data-test-bidi=\"\"> </p> <p dir=\"ltr\" data-test-bidi=\"\">Группа в VK  — <a href= \"http://vk.com/libolibostudio\">vk.com/libolibostudio</a></p> ",
+        "podcastName": "Запуск завтра",
+        "artworkUrl": "https://ssl-static.libsyn.com/p/assets/b/3/4/8/b34837328ba14b835f2e77a3093c12a1/03-ZAPUSKZAVTRA-COVER-20230615-6h4hg0rmt5.jpg",
+        "episodeDate": "2022-12-29T18:31:00.000Z",
+        "feedUrl": "https://feeds.libsyn.com/230747/rss",
+        "itunesTitle": "Квантовые компьютеры еще не появились, но уже меняют мир. Почему?"
+      },
+      {
+        "title": "Бан для Шерон Стоун. Как работают сервисы знакомств",
+        "streamUrl": "https://traffic.libsyn.com/secure/zapuskzavtra/ZZ__s2ep5.mp3?dest-id=1701647",
+        "url": "https://zapuskzavtra.libsyn.com/dxsbaem4943k",
+        "description": "<p class=\"p1\">Этот подкаст мы делаем совместно с сервисом онлайн-образования <a href= \"https://praktikum.yandex.ru/?utm_source=pr&utm_medium=content&utm_campaign=pr_content_main_zapuskzavtra\"> Яндекс.Практикум</a></p> <p class=\"p1\"> </p> <p class=\"p1\">В новом выпуске «Запуска завтра» Самат разговаривает с Максимом Волосенковым, главой продуктовой разработки Badoо о дейтинг-приложениях. Что написать незнакомой девушке, чтобы она ответила? Как происходят онлайн-знакомства и как команда сервиса помогает найти нужного человека? Почему аккаунты реальных людей иногда принимают за фейки? Как различается мужской и женский опыт в приложении и как разработчики могут его улучшить?</p> <p class=\"p1\"> </p> <p class=\"p1\"> </p> <p class=\"p1\">03:50 Как женщины оценивают фотографии мужчин с голым торсом </p> <p class=\"p1\"> </p> <p class=\"p1\">05:30 Как в сервисе устроена аналитика</p> <p class=\"p1\"> </p> <p class=\"p1\">09:15 Каким мужчинам никогда не отвечают</p> <p class=\"p1\"> </p> <p class=\"p1\">14:20 Как пользователи онлайн-дейтинга Bumble обманывают алгоритм</p> <p class=\"p1\"> </p> <p class=\"p1\">18:50 Почему в Bumble заблокировали Шерон Стоун</p> <p class=\"p1\"> </p> <p class=\"p1\">25:30 Как в сервисе вычисляют несовершеннолетних пользователей</p> <p class=\"p1\"> </p> <p class=\"p1\">28:50 Как в Badoo и Bumble устроены кросс-функциональные команды и разработка</p> <p class=\"p1\"> </p> <p class=\"p1\">34:17 На чем зарабатывает онлайн-дейтинг и как справляется во время самоизоляции</p> <p class=\"p3\"> </p> <p class=\"p1\">Редакторы — Андрей Борзенко и Юля Яковлева;</p> <p class=\"p1\"> </p> <p class=\"p1\">Продюсер — Павел Боровков;</p> <p class=\"p1\"> </p> <p class=\"p1\">Звукорежиссер — Андрей Гранкин; </p> <p class=\"p1\"> </p> <p class=\"p1\">Дизайнер обложки — Петр Сутупов</p> <p class=\"p2\"> </p> <p class=\"p2\"> </p> <p class=\"p1\"><em>_____________</em></p> <p class=\"p2\"> </p> <p class=\"p2\"> </p> <p class=\"p1\">Это подкаст студии \"Либо/Либо\"<span class= \"Apple-converted-space\"> </span> — libolibo.ru</p> <p class=\"p2\"> </p> <p class=\"p1\">Instagram студии<span class= \"Apple-converted-space\"> </span> — Instagram.com/libolibostudio</p> <p class=\"p2\"> </p> <p class=\"p1\">Наш YouTube канал — youtube.com/c/ЛибоЛибо</p> <p class=\"p2\"> </p> <p class=\"p1\">Группа в VK<span class= \"Apple-converted-space\"> </span> — vk.com/libolibostudio</p>",
+        "content": "<p class=\"p1\">Этот подкаст мы делаем совместно с сервисом онлайн-образования <a href= \"https://praktikum.yandex.ru/?utm_source=pr&utm_medium=content&utm_campaign=pr_content_main_zapuskzavtra\"> Яндекс.Практикум</a></p> <p class=\"p1\"> </p> <p class=\"p1\">В новом выпуске «Запуска завтра» Самат разговаривает с Максимом Волосенковым, главой продуктовой разработки Badoо о дейтинг-приложениях. Что написать незнакомой девушке, чтобы она ответила? Как происходят онлайн-знакомства и как команда сервиса помогает найти нужного человека? Почему аккаунты реальных людей иногда принимают за фейки? Как различается мужской и женский опыт в приложении и как разработчики могут его улучшить?</p> <p class=\"p1\"> </p> <p class=\"p1\"> </p> <p class=\"p1\">03:50 Как женщины оценивают фотографии мужчин с голым торсом </p> <p class=\"p1\"> </p> <p class=\"p1\">05:30 Как в сервисе устроена аналитика</p> <p class=\"p1\"> </p> <p class=\"p1\">09:15 Каким мужчинам никогда не отвечают</p> <p class=\"p1\"> </p> <p class=\"p1\">14:20 Как пользователи онлайн-дейтинга Bumble обманывают алгоритм</p> <p class=\"p1\"> </p> <p class=\"p1\">18:50 Почему в Bumble заблокировали Шерон Стоун</p> <p class=\"p1\"> </p> <p class=\"p1\">25:30 Как в сервисе вычисляют несовершеннолетних пользователей</p> <p class=\"p1\"> </p> <p class=\"p1\">28:50 Как в Badoo и Bumble устроены кросс-функциональные команды и разработка</p> <p class=\"p1\"> </p> <p class=\"p1\">34:17 На чем зарабатывает онлайн-дейтинг и как справляется во время самоизоляции</p> <p class=\"p3\"> </p> <p class=\"p1\">Редакторы — Андрей Борзенко и Юля Яковлева;</p> <p class=\"p1\"> </p> <p class=\"p1\">Продюсер — Павел Боровков;</p> <p class=\"p1\"> </p> <p class=\"p1\">Звукорежиссер — Андрей Гранкин; </p> <p class=\"p1\"> </p> <p class=\"p1\">Дизайнер обложки — Петр Сутупов</p> <p class=\"p2\"> </p> <p class=\"p2\"> </p> <p class=\"p1\"><em>_____________</em></p> <p class=\"p2\"> </p> <p class=\"p2\"> </p> <p class=\"p1\">Это подкаст студии \"Либо/Либо\"  — libolibo.ru</p> <p class=\"p2\"> </p> <p class=\"p1\">Instagram студии  — Instagram.com/libolibostudio</p> <p class=\"p2\"> </p> <p class=\"p1\">Наш YouTube канал — youtube.com/c/ЛибоЛибо</p> <p class=\"p2\"> </p> <p class=\"p1\">Группа в VK  — vk.com/libolibostudio</p>",
+        "podcastName": "Запуск завтра",
+        "artworkUrl": "https://ssl-static.libsyn.com/p/assets/b/3/4/8/b34837328ba14b835f2e77a3093c12a1/03-ZAPUSKZAVTRA-COVER-20230615-6h4hg0rmt5.jpg",
+        "episodeDate": "2020-07-16T10:33:22.000Z",
+        "feedUrl": "https://feeds.libsyn.com/230747/rss",
+        "itunesTitle": "Бан для Шерон Стоун. Как работают сервисы знакомств"
+      },
+      {
+        "title": "Часть 3. Управление знаниями в Obsidian. Продвинутые техники. Excalibrain. Spaced repetition. Breadcrumbs. Longform  Хабар",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Часть 3. Управление знаниями в Obsidian. Продвинутые техники. Excalibrain. Spaced repetition. Breadcrumbs. Longform  Хабар]]",
+        "streamUrl": "blob:app://obsidian.md/38140d92-390a-4f82-831c-7f1ff5338651",
+        "episodeDate": "2023-06-15T08:30:50.885Z"
+      },
+      {
+        "title": "Untitled 4",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Untitled 4]]",
+        "streamUrl": "blob:app://obsidian.md/4821a160-cc65-4988-aa5e-b6b740fb298e",
+        "episodeDate": "2023-06-13T14:16:23.495Z"
+      },
+      {
+        "title": "podcasts",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[podcasts]]",
+        "streamUrl": "blob:app://obsidian.md/8156341c-50b0-4a14-80c6-cc8400dda21c",
+        "episodeDate": "2023-06-13T13:30:30.083Z"
+      },
+      {
+        "title": "Untitled 3",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Untitled 3]]",
+        "streamUrl": "blob:app://obsidian.md/3c06a265-5347-4e63-a0c2-df36edc72634",
+        "episodeDate": "2023-06-13T13:42:33.981Z"
+      }
+    ]
+  },
+  "playlists": {
+    "": {
+      "name": "",
+      "icon": "activity",
+      "episodes": [],
+      "shouldEpisodeRemoveAfterPlay": false,
+      "shouldRepeat": false
+    },
+    "Арзамас": {
+      "name": "Арзамас",
+      "icon": "activity",
+      "episodes": [],
+      "shouldEpisodeRemoveAfterPlay": false,
+      "shouldRepeat": false
+    }
+  },
+  "skipBackwardLength": 15,
+  "skipForwardLength": 15,
+  "currentEpisode": {
+    "title": "101311012700",
+    "description": "",
+    "content": "",
+    "podcastName": "local file",
+    "url": "![[101311012700.wav]]",
+    "streamUrl": "blob:app://obsidian.md/57f23160-03d7-412e-9b6d-9ad7653fca71",
+    "episodeDate": "2023-10-17T09:40:31.485Z"
+  },
+  "timestamp": {
+    "template": "{{linktime}} "
+  },
+  "note": {
+    "path": "{{title}}",
+    "template": "---\ntype: podcast \npodcast: {{podcast}} \naliases: \n- \"~{{title}}\" \ncover: {{artwork}} \nstatus: todo \nrecommendedby: \n---\n___\nprev:: [[podcasts|назад в библиотеку]] \ncategory:: \nurl:: {{url}}\nchildren:: \n___"
+  },
+  "download": {
+    "path": "files/{{title}}"
+  },
+  "downloadedEpisodes": {
+    "local file": [
+      {
+        "title": "Untitled 3",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Untitled 3]]",
+        "streamUrl": "blob:app://obsidian.md/3c06a265-5347-4e63-a0c2-df36edc72634",
+        "episodeDate": "2023-06-13T13:42:33.981Z",
+        "filePath": "Untitled 3.md",
+        "size": 0
+      },
+      {
+        "title": "podcasts",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[podcasts]]",
+        "streamUrl": "blob:app://obsidian.md/8156341c-50b0-4a14-80c6-cc8400dda21c",
+        "episodeDate": "2023-06-13T13:30:30.083Z",
+        "filePath": "podcasts.md",
+        "size": 966
+      },
+      {
+        "title": "Untitled 4",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Untitled 4]]",
+        "streamUrl": "blob:app://obsidian.md/4821a160-cc65-4988-aa5e-b6b740fb298e",
+        "episodeDate": "2023-06-13T14:16:23.495Z",
+        "filePath": "Untitled 4.md",
+        "size": 0
+      },
+      {
+        "title": "Часть 3. Управление знаниями в Obsidian. Продвинутые техники. Excalibrain. Spaced repetition. Breadcrumbs. Longform  Хабар",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Часть 3. Управление знаниями в Obsidian. Продвинутые техники. Excalibrain. Spaced repetition. Breadcrumbs. Longform  Хабар]]",
+        "streamUrl": "blob:app://obsidian.md/38140d92-390a-4f82-831c-7f1ff5338651",
+        "episodeDate": "2023-06-15T08:30:50.885Z",
+        "filePath": "periodic/daily/Часть 3. Управление знаниями в Obsidian. Продвинутые техники. Excalibrain. Spaced repetition. Breadcrumbs. Longform  Хабар.md",
+        "size": 59874
+      },
+      {
+        "title": "Лекция Максима Жука о Франце Кафке во Все Свободны",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Лекция Максима Жука о Франце Кафке во Все Свободны]]",
+        "streamUrl": "blob:http://localhost/7709f6c7-705c-4ab8-869a-2d82249efb56",
+        "episodeDate": "2023-06-17T19:31:18.839Z",
+        "filePath": "Лекция Максима Жука о Франце Кафке во Все Свободны.md",
+        "size": 850
+      },
+      {
+        "title": "101311012700",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "![[101311012700.wav]]",
+        "streamUrl": "blob:app://obsidian.md/57f23160-03d7-412e-9b6d-9ad7653fca71",
+        "episodeDate": "2023-10-17T09:40:31.485Z",
+        "filePath": "101311012700.wav",
+        "size": 527164
+      }
+    ]
+  },
+  "localFiles": {
+    "icon": "folder",
+    "name": "Local Files",
+    "shouldEpisodeRemoveAfterPlay": false,
+    "shouldRepeat": false,
+    "episodes": [
+      {
+        "title": "Untitled 3",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Untitled 3]]",
+        "streamUrl": "blob:app://obsidian.md/3c06a265-5347-4e63-a0c2-df36edc72634",
+        "episodeDate": "2023-06-13T13:42:33.981Z"
+      },
+      {
+        "title": "podcasts",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[podcasts]]",
+        "streamUrl": "blob:app://obsidian.md/8156341c-50b0-4a14-80c6-cc8400dda21c",
+        "episodeDate": "2023-06-13T13:30:30.083Z"
+      },
+      {
+        "title": "Untitled 4",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Untitled 4]]",
+        "streamUrl": "blob:app://obsidian.md/4821a160-cc65-4988-aa5e-b6b740fb298e",
+        "episodeDate": "2023-06-13T14:16:23.495Z"
+      },
+      {
+        "title": "Часть 3. Управление знаниями в Obsidian. Продвинутые техники. Excalibrain. Spaced repetition. Breadcrumbs. Longform  Хабар",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Часть 3. Управление знаниями в Obsidian. Продвинутые техники. Excalibrain. Spaced repetition. Breadcrumbs. Longform  Хабар]]",
+        "streamUrl": "blob:app://obsidian.md/38140d92-390a-4f82-831c-7f1ff5338651",
+        "episodeDate": "2023-06-15T08:30:50.885Z"
+      },
+      {
+        "title": "Лекция Максима Жука о Франце Кафке во Все Свободны",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Лекция Максима Жука о Франце Кафке во Все Свободны]]",
+        "streamUrl": "blob:http://localhost/7709f6c7-705c-4ab8-869a-2d82249efb56",
+        "episodeDate": "2023-06-17T19:31:18.839Z"
+      },
+      {
+        "title": "101311012700",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "![[101311012700.wav]]",
+        "streamUrl": "blob:app://obsidian.md/57f23160-03d7-412e-9b6d-9ad7653fca71",
+        "episodeDate": "2023-10-17T09:40:31.485Z"
+      }
+    ]
+  }
+}

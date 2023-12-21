@@ -1,0 +1,191 @@
+{
+  "savedFeeds": {
+    "Запуск завтра": {
+      "title": "Запуск завтра",
+      "url": "https://feeds.libsyn.com/230747/rss",
+      "artworkUrl": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/04/09/17/040917fa-e3d3-d545-bf92-40b33a6ffc3b/mza_11088859810742017372.jpg/100x100bb.jpg",
+      "collectionId": 1488945593
+    }
+  },
+  "podNotes": {},
+  "defaultPlaybackRate": 1,
+  "playedEpisodes": {
+    "Untitled 3": {
+      "title": "Untitled 3",
+      "podcastName": "local file",
+      "time": 0,
+      "duration": 0,
+      "finished": true
+    },
+    "podcasts": {
+      "title": "podcasts",
+      "podcastName": "local file",
+      "time": 0,
+      "duration": 0,
+      "finished": true
+    },
+    "Untitled 4": {
+      "title": "Untitled 4",
+      "podcastName": "local file",
+      "time": 0,
+      "duration": 0,
+      "finished": true
+    }
+  },
+  "favorites": {
+    "icon": "lucide-star",
+    "name": "Favorites",
+    "shouldEpisodeRemoveAfterPlay": false,
+    "shouldRepeat": false,
+    "episodes": []
+  },
+  "queue": {
+    "icon": "list-ordered",
+    "name": "Queue",
+    "shouldEpisodeRemoveAfterPlay": true,
+    "shouldRepeat": false,
+    "episodes": [
+      {
+        "title": "Untitled 4",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Untitled 4]]",
+        "streamUrl": "blob:app://obsidian.md/4821a160-cc65-4988-aa5e-b6b740fb298e",
+        "episodeDate": "2023-06-13T14:16:23.495Z"
+      },
+      {
+        "title": "podcasts",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[podcasts]]",
+        "streamUrl": "blob:app://obsidian.md/8156341c-50b0-4a14-80c6-cc8400dda21c",
+        "episodeDate": "2023-06-13T13:30:30.083Z"
+      },
+      {
+        "title": "Untitled 3",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Untitled 3]]",
+        "streamUrl": "blob:app://obsidian.md/3c06a265-5347-4e63-a0c2-df36edc72634",
+        "episodeDate": "2023-06-13T13:42:33.981Z"
+      }
+    ]
+  },
+  "playlists": {},
+  "skipBackwardLength": 15,
+  "skipForwardLength": 15,
+  "currentEpisode": {
+    "title": "Часть 3. Управление знаниями в Obsidian. Продвинутые техники. Excalibrain. Spaced repetition. Breadcrumbs. Longform  Хабар",
+    "description": "",
+    "content": "",
+    "podcastName": "local file",
+    "url": "[[Часть 3. Управление знаниями в Obsidian. Продвинутые техники. Excalibrain. Spaced repetition. Breadcrumbs. Longform  Хабар]]",
+    "streamUrl": "blob:app://obsidian.md/38140d92-390a-4f82-831c-7f1ff5338651",
+    "episodeDate": "2023-06-15T08:30:50.885Z"
+  },
+  "timestamp": {
+    "template": "{{linktime}} "
+  },
+  "note": {
+    "path": "{{title}}",
+    "template": "---\ntype: podcast \npodcast: {{podcast}} \naliases: \n- \"~{{title}}\" \ncover: {{artwork}} \nstatus: todo \nrecommendedby: \n---\n___\nprev:: [[podcasts|назад в библиотеку]] \ncategory:: \nurl:: {{url}}\nchildren:: \n___"
+  },
+  "download": {
+    "path": "files/{{title}}"
+  },
+  "downloadedEpisodes": {
+    "local file": [
+      {
+        "title": "Untitled 3",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Untitled 3]]",
+        "streamUrl": "blob:app://obsidian.md/3c06a265-5347-4e63-a0c2-df36edc72634",
+        "episodeDate": "2023-06-13T13:42:33.981Z",
+        "filePath": "Untitled 3.md",
+        "size": 0
+      },
+      {
+        "title": "podcasts",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[podcasts]]",
+        "streamUrl": "blob:app://obsidian.md/8156341c-50b0-4a14-80c6-cc8400dda21c",
+        "episodeDate": "2023-06-13T13:30:30.083Z",
+        "filePath": "podcasts.md",
+        "size": 966
+      },
+      {
+        "title": "Untitled 4",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Untitled 4]]",
+        "streamUrl": "blob:app://obsidian.md/4821a160-cc65-4988-aa5e-b6b740fb298e",
+        "episodeDate": "2023-06-13T14:16:23.495Z",
+        "filePath": "Untitled 4.md",
+        "size": 0
+      },
+      {
+        "title": "Часть 3. Управление знаниями в Obsidian. Продвинутые техники. Excalibrain. Spaced repetition. Breadcrumbs. Longform  Хабар",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Часть 3. Управление знаниями в Obsidian. Продвинутые техники. Excalibrain. Spaced repetition. Breadcrumbs. Longform  Хабар]]",
+        "streamUrl": "blob:app://obsidian.md/38140d92-390a-4f82-831c-7f1ff5338651",
+        "episodeDate": "2023-06-15T08:30:50.885Z",
+        "filePath": "periodic/daily/Часть 3. Управление знаниями в Obsidian. Продвинутые техники. Excalibrain. Spaced repetition. Breadcrumbs. Longform  Хабар.md",
+        "size": 59874
+      }
+    ]
+  },
+  "localFiles": {
+    "icon": "folder",
+    "name": "Local Files",
+    "shouldEpisodeRemoveAfterPlay": false,
+    "shouldRepeat": false,
+    "episodes": [
+      {
+        "title": "Untitled 3",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Untitled 3]]",
+        "streamUrl": "blob:app://obsidian.md/3c06a265-5347-4e63-a0c2-df36edc72634",
+        "episodeDate": "2023-06-13T13:42:33.981Z"
+      },
+      {
+        "title": "podcasts",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[podcasts]]",
+        "streamUrl": "blob:app://obsidian.md/8156341c-50b0-4a14-80c6-cc8400dda21c",
+        "episodeDate": "2023-06-13T13:30:30.083Z"
+      },
+      {
+        "title": "Untitled 4",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Untitled 4]]",
+        "streamUrl": "blob:app://obsidian.md/4821a160-cc65-4988-aa5e-b6b740fb298e",
+        "episodeDate": "2023-06-13T14:16:23.495Z"
+      },
+      {
+        "title": "Часть 3. Управление знаниями в Obsidian. Продвинутые техники. Excalibrain. Spaced repetition. Breadcrumbs. Longform  Хабар",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Часть 3. Управление знаниями в Obsidian. Продвинутые техники. Excalibrain. Spaced repetition. Breadcrumbs. Longform  Хабар]]",
+        "streamUrl": "blob:app://obsidian.md/38140d92-390a-4f82-831c-7f1ff5338651",
+        "episodeDate": "2023-06-15T08:30:50.885Z"
+      }
+    ]
+  }
+}

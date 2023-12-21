@@ -1,0 +1,41 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Daily",
+  "attachmentFolderPath": "Files",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheckLanguages": null,
+  "fileSortOrder": "byModifiedTime",
+  "legacyEditor": false,
+  "foldIndent": true,
+  "readableLineLength": false,
+  "mobileToolbarCommands": [
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:redo",
+    "editor:configure-toolbar",
+    "editor:cut",
+    "editor:copy",
+    "editor:undo",
+    "obsidian-footnotes:insert-autonumbered-footnote",
+    "editor:toggle-keyboard",
+    "command-palette:open",
+    "editor:paste",
+    "editor:move-caret-left"
+  ]
+}

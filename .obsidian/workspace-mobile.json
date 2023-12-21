@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "af59f52db8b0f13e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f106c276838213cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a758fbe700ff61c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Современные операционные системы. Таненбаум.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5202b22207b4be1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0975b980b3e01bcc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTime"
+          }
+        }
+      },
+      {
+        "id": "da939c0b6ce54711",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3694f368f5417bd5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8cdc797dce49b0fd",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "50a5553b1add19cd",
+        "type": "leaf",
+        "state": {
+          "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e771a8b06bdac0d4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "81ee363f51a1da60",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "c326cae8e72b102f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Современные операционные системы. Таненбаум.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "26a110878fca4467",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Современные операционные системы. Таненбаум.md",
+            "linksCollapsed": true,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "26ad625b15b2ee7f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Современные операционные системы. Таненбаум.md"
+          }
+        }
+      },
+      {
+        "id": "26d1bfcba81f8cad",
+        "type": "leaf",
+        "state": {
+          "type": "podcast_player_view",
+          "state": {}
+        }
+      },
+      {
+        "id": "e303a10a6f73d647",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "726c3c244bdecd30",
+        "type": "leaf",
+        "state": {
+          "type": "BC-matrix",
+          "state": {}
+        }
+      },
+      {
+        "id": "a9626fae4266c628",
+        "type": "leaf",
+        "state": {
+          "type": "BC-tree",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "homepage:Open homepage": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "26ad625b15b2ee7f",
+  "lastOpenFiles": [
+    "home/homepage.md",
+    "Таненбаум, конспект.md",
+    "Программист суть мыслитель полезности.md",
+    "Уважение - суть приоритет вечного над приходящем в представлении.md",
+    "Современные операционные системы. Таненбаум.md~",
+    "Разбор Онегина. Егор Яковлев.png",
+    "Разбор Онегина. Егор Яковлев-1.png",
+    "Курс Vim.md",
+    "Глава 5. Многоуровневая файловая система - Контейнеры Linix и Виртуализация с точки зрения ядра.md",
+    "Сервитут.md",
+    "periodic/daily/2023-11-02.md",
+    "Быстрое освоение Vim.md",
+    "base/74.Чтн Лекции в Zettelkasten.md",
+    "Daily/74.Чтн Реферирование в Zettelkasten.md",
+    "base/74.Чтн Конспектирование по Агамалиеву.md",
+    "алгоритм чтения книги flowing_abyss.md",
+    "Общество потребления под внешним управлением.md",
+    "Барьерные материалы в сейфах и хранилищах и сейфовых дверях.md",
+    "Сейфовые двери.md",
+    "Засаливание алмаза.md",
+    "base/Днв.Ок108 Отключить отопление. Активность 2023.md",
+    "Гетинакс - как его сделать в домашних условиях.md",
+    "periodic/daily/2023-10-26.md",
+    "Linux.md",
+    "Administrator Linux. Basic.md",
+    "Zabbix.md",
+    "Часть 1. Как подготовиться к обучению в OTUS.md",
+    "мое неорганическое тело.md",
+    "Zabbix что такое и как использовать.md",
+    "imagemagick.png",
+    "Транковый порт на коммутаторе openWRT роутера.png",
+    "Искусство революционное.png",
+    "Сирийские курсанты.png",
+    "Теракт против курсантов Сирии.png",
+    "сетевой доступ к папке.png",
+    "Светодиодные лампы могут не перегорать.png",
+    "sync.ffs_lock",
+    "Винни-пух - инфантил-потребитель.png",
+    "я как природная единица.canvas",
+    "projects/Медицинская статистика/явление - причины и следствия или хаос.canvas",
+    "projects/Медицинская статистика/Причина себя.canvas",
+    "projects/Медицинская статистика/Этажи культуры.canvas",
+    "projects/Медицинская статистика/явление - противоречивые причины и следствия или хаос.canvas",
+    "Раскладки Ильи Шепрута, переключение.canvas",
+    "projects/Эргономика устройств ввода",
+    "движение культур Великого переселения народов.canvas",
+    "Excalidraw",
+    "projects/humanization/ergonomics",
+    "projects/humanization",
+    "Project/JS Elecron",
+    "Untitled 2",
+    "Untitled 1",
+    "Untitled"
+  ]
+}

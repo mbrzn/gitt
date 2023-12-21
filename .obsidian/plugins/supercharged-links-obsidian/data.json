@@ -1,0 +1,150 @@
+{
+  "targetAttributes": [
+    "type",
+    "cssclass",
+    "kanban-plugin"
+  ],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "attribute",
+      "name": "type",
+      "value": "book",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "c103-420a",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "type",
+      "value": "movie",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "f74c-144b",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "type",
+      "value": "article",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "0719-a084",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "type",
+      "value": "video",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "619e-46bb",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "type",
+      "value": "podcast",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "a0f0-2015",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "type",
+      "value": "course",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "5401-f4aa",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "type",
+      "value": "📥",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "aab2-0505",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "kanban-plugin",
+      "value": "basic",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "6887-906d",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "type",
+      "value": "projects/articles/",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "98b5-eb57",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "type",
+      "value": "🗺️",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "8896-2922",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "type",
+      "value": "author",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "46d7-9324",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "af59f52db8b0f13e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3e1e3f300b24aac",
+        "type": "leaf",
+        "dimension": 54.47154471544715,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/87.442 Природа логического отношения.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8ec639cb377497fd",
+        "type": "leaf",
+        "dimension": 45.52845528455284,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Шаблон заметки.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da622d07425f4122",
+    "type": "split",
+    "children": [
+      {
+        "id": "154989a17c6c7b9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaec449a929fc364",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf0d7667891e17db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259
+  },
+  "right": {
+    "id": "d02d4287ea39b4ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "25af4958f74803d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54f8217d1096a1a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/Сырьевой поток.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "994793da24cd192d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "485c2cf4b665a437",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/Сырьевой поток.md"
+              }
+            }
+          },
+          {
+            "id": "2cd6c260765c706a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342,
+    "collapsed": true
+  },
+  "floating": {
+    "id": "2fbc000c4729f529",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2430a9c80f81df15",
+        "type": "window",
+        "children": [
+          {
+            "id": "f92937e78753681e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/Сырьевой поток.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical",
+        "x": 288,
+        "y": 24,
+        "width": 704,
+        "height": 634,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "da94ec87816c6f99",
+        "type": "window",
+        "children": [
+          {
+            "id": "e6777466248cf711",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lit/87.442 Отрицательные термины и суждения.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical",
+        "x": 300,
+        "y": 24,
+        "width": 644,
+        "height": 634,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f92937e78753681e",
+  "lastOpenFiles": [
+    "Base/87.442 Природа логического отношения.md",
+    "Templates/Шаблон заметки.md",
+    "Daily/Сырьевой поток.md",
+    "Lit/66.4пр1,302 Война - не специальная военная операция.md",
+    "Lit/60.543.Военн Дивизия.md",
+    "Lit/60.543.Военн Военная ораганизация - эффективность через профессиональное творчество.md",
+    "Lit/87.3.Всбщ Если всеобщее только в сознании, то разуму не познать разумное.md",
+    "Base/87.3 История философии.md",
+    "Lit/87.3.Истн Сократ принял смерть, для согласия с оппонентом.md",
+    "Base/87.442  Представления о смысле и значении.md"
+  ]
+}
