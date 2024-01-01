@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Христианская космогония.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Христианская космогония.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Христианская космогония.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Христианская космогония.md"
+                "file": "README.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Христианская космогония.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Христианская космогония.md"
+                "file": "README.md"
               }
             }
           }
@@ -281,11 +281,11 @@
   "lastOpenFiles": [
     "index.md",
     "Буддийская коcмогония.md",
-    "Христианская космогония.md",
-    "Начало.md",
-    "gen",
-    "README.md",
     "home/homepage.md",
+    "README.md",
+    "Начало.md",
+    "Христианская космогония.md",
+    "gen",
     "home",
     "gen - копия"
   ]
