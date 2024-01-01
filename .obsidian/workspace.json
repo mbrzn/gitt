@@ -4,80 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "866ba8869c942445",
-        "type": "tabs",
-        "dimension": 40.45064377682404,
-        "children": [
-          {
-            "id": "bdcfe8e48a0c92b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gen.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            },
-            "group": "e758a5105714890b"
-          }
-        ]
-      },
-      {
         "id": "3e6ef5e19be57e0a",
         "type": "tabs",
-        "dimension": 59.54935622317596,
         "children": [
-          {
-            "id": "459a9166e8ca4cd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gen.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            },
-            "group": "e758a5105714890b"
-          },
-          {
-            "id": "6477ec73ccd562ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Христианская космогония.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
           {
             "id": "4566053b6e90a5d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2bf97000a739e4a9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9f28822c3c0dacaa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "gen.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -125,13 +65,20 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "3d45a9adb78df57a",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 290,
-    "collapsed": true
+    "width": 290
   },
   "right": {
     "id": "d02d4287ea39b4ed",
@@ -221,9 +168,61 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "fe21dcc331abfbe3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0df5788a4ccb44d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "gen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e774a6aa661489a3",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2233b4ccf5b6847b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b863ba0218636f7d",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d75c5899ac14a23",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       },
       {
         "id": "a5c5b90e227a0875",
@@ -253,23 +252,23 @@
       "homepage:Open homepage": false,
       "obsidian-projects:Open projects": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "eaec449a929fc364",
+  "active": "4566053b6e90a5d0",
   "lastOpenFiles": [
     "Христианская космогония.md",
-    "gen.md",
+    "README.md",
     "home/homepage.md",
-    "home",
-    "README.md"
+    "gen.md",
+    "home"
   ]
 }
