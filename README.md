@@ -6,6 +6,7 @@
 
 Синтез космологии описал С. Лем в бесподобном [Электрувер Трурля](https://youtu.be/7LDNN5RFpB8?t=6392) о поэзии нейросети. ![i](https://avatars.mds.yandex.net/i?id=6dc8fb9398291c1114c68af8dd7a692f-5235227-images-thumbs&n=13)
 
+![[README.png]]
 ##  git tutorial
 
 Технология *текст как код* нуждается в прояснении и усвоении
